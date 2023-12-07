@@ -1,0 +1,19 @@
+{
+	"format_version": "1.17.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "tong_island:copper_nugget",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "copper_nugget_NOQXD9"
+			},
+			"minecraft:display_name":{},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.diamond"
+			}
+		},
+		"events": {}
+	}
+}

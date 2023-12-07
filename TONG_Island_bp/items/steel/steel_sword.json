@@ -1,0 +1,83 @@
+{
+	"format_version": "1.17.30",
+	"minecraft:item": {
+		"description": {
+			"identifier": "tong_island:steel_sword",
+			"category": "equipment"
+		},
+		"components": {
+			"tag:minecraft:is_sword": {},
+			"minecraft:can_destroy_in_creative": false,
+			"minecraft:max_stack_size": 1,
+			"minecraft:hand_equipped": true,
+			"minecraft:mining_speed": 1.5,
+			"minecraft:damage": 6.5,
+			"minecraft:enchantable": {
+				"value": 3,
+				"slot": "sword"
+			},
+			"minecraft:digger": {
+				"use_efficiency": true,
+				"destroy_speeds": [
+					{
+						"block": "minecraft:web",
+						"speed": 15,
+						"on_dig": {
+							"event": "minecraft:break"
+						}
+					},
+					{
+						"block": "minecraft:bamboo",
+						"speed": 100,
+						"on_dig": {
+							"event": "minecraft:break"
+						}
+					}
+				],
+				"on_dig": {
+					"event": "minecraft:break",
+					"target": "self"
+				}
+			},
+			"minecraft:display_name": {},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.sword"
+			},
+			"minecraft:icon": {
+				"texture": "steel_sword_Ssu5KU"
+			},
+			"minecraft:weapon": {
+				"on_hurt_entity": {
+					"event": "minecraft:break"
+				}
+			},
+			"minecraft:durability": {
+				"max_durability": 460
+			},
+			"minecraft:repairable": {
+				"repair_items": [
+				  {
+					"items": [
+					  "tong_island:steel_ingot"
+					],
+					"repair_amount": 115
+				  },
+				  {
+					"items": [
+					  "tong_island:steel_sword"
+					],
+					"repair_amount": "query.max_durability"
+				  }
+				]
+			  }
+		},
+		"events": {
+			"minecraft:break": {
+				"damage": {
+					"type": "durability",
+					"amount": 1
+				}
+			}
+		}
+	}
+}

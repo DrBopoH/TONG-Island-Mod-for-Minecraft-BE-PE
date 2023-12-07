@@ -1,0 +1,11 @@
+{ 
+  "resource_pack_name": "TongIsland", 
+  "texture_name": "atlas.terrain", 
+  "padding": 8, 
+  "num_mip_levels": 4, 
+  "texture_data": { 
+    "steel_block_QHzwSS": { 
+      "textures": "textures/blocks/steel_block_QHzwSS" 
+    } 
+  } 
+}

@@ -1,0 +1,23 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "tong_island:steel_ingot"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "tong_island:steel_nugget",
+				"count": 9
+			}
+		],
+		"result": [
+		    {
+				"item": "tong_island:steel_ingot",
+				"count": 1
+			}
+    	]
+	}
+}

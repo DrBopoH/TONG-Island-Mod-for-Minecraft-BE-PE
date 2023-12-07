@@ -1,0 +1,93 @@
+{
+	"resource_pack_name": "TongIsland",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"raw_mix_steel_EmtQbh": {
+		    "textures":"textures/items/raw_mix_steel_EmtQbh"
+		},
+		"steel_nugget_qW0NOe": {
+		    "textures":"textures/items/steel_nugget_qW0NOe"
+		},
+		"steel_ingot_bQLFTq": {
+		    "textures":"textures/items/steel_ingot_bQLFTq"
+		},
+		"steel_sword_Ssu5KU": {
+		    "textures":"textures/items/steel_sword_Ssu5KU"
+		},
+		"steel_shovel_wYxHEJ": {
+		    "textures":"textures/items/steel_shovel_wYxHEJ"
+		},
+		"steel_pickaxe_91vjfz": {
+		    "textures":"textures/items/steel_pickaxe_91vjfz"
+		},
+		"steel_hoe_lLjebi": {
+		    "textures":"textures/items/steel_hoe_lLjebi"
+		},
+		"steel_axe_EWG3pq": {
+		    "textures":"textures/items/steel_axe_EWG3pq"
+		},
+		"steel_leggings_UYryWv": {
+		    "textures":"textures/items/steel_leggings_UYryWv"
+		},
+		"steel_helmet_80CLFi": {
+		    "textures":"textures/items/steel_helmet_80CLFi"
+		},
+		"steel_chestplate_BSXa7Q": {
+		    "textures":"textures/items/steel_chestplate_BSXa7Q"
+		},
+		"steel_boots_GvmUBx": {
+		    "textures":"textures/items/steel_boots_GvmUBx"
+		},
+
+		
+		"reinforced_iron_leggings_JNAW5M": {
+		    "textures":"textures/items/reinforced_iron_leggings_JNAW5M"
+		},
+		"reinforced_iron_helmet_x3y6i9": {
+		    "textures":"textures/items/reinforced_iron_helmet_x3y6i9"
+		},
+		"reinforced_iron_chestplate_4Da3m7": {
+		    "textures":"textures/items/reinforced_iron_chestplate_4Da3m7"
+		},
+		"reinforced_iron_boots_kj3PcF": {
+		    "textures":"textures/items/reinforced_iron_boots_kj3PcF"
+		},
+
+
+        "copper_nugget_NOQXD9": {
+		    "textures":"textures/items/copper_nugget_NOQXD9"
+		},
+		"copper_sword_Xuv0T4": {
+		    "textures":"textures/items/copper_sword_Xuv0T4"
+		},
+		"copper_shovel_6dCMep": {
+		    "textures":"textures/items/copper_shovel_6dCMep"
+		},
+		"copper_pickaxe_fnXhLo": {
+		    "textures":"textures/items/copper_pickaxe_fnXhLo"
+		},
+		"copper_hoe_y42ljT": {
+		    "textures":"textures/items/copper_hoe_y42ljT"
+		},
+		"copper_axe_bJyBn3": {
+		    "textures":"textures/items/copper_axe_bJyBn3"
+		},
+		"copper_leggings_ejB3Jn": {
+		    "textures":"textures/items/copper_leggings_ejB3Jn"
+		},
+		"copper_helmet_jRbI3m": {
+		    "textures":"textures/items/copper_helmet_jRbI3m"
+		},
+		"copper_chestplate_XfYlBj": {
+		    "textures":"textures/items/copper_chestplate_XfYlBj"
+		},
+		"copper_boots_62JWMr": {
+		    "textures":"textures/items/copper_boots_62JWMr"
+		},
+		
+		
+		"seeds_wheat": {
+		    "textures":"textures/items/seeds_wheat"
+		}
+	}
+}

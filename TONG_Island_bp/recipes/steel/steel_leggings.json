@@ -1,0 +1,26 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "tong_island:steel_leggings"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"AAA",
+			"A A",
+			"A A"
+		],
+		"key": {
+			"A": {
+				"item": "tong_island:steel_ingot"
+			}
+		},
+		"result": [
+			{
+				"item": "tong_island:steel_leggings"
+			}
+		]
+	}
+}

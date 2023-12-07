@@ -1,0 +1,33 @@
+item.tong_island:steel_sword=Steel Sword
+item.tong_island:steel_shovel=Steel Shovel
+item.tong_island:steel_axe=Steel Axe
+item.tong_island:steel_pickaxe=Steel Pickaxe
+item.tong_island:steel_hoe=Steel Hoe
+item.tong_island:copper_sword=Copper Sword
+item.tong_island:copper_shovel=Copperopper Shovel
+item.tong_island:copper_axe=Copper Axe
+item.tong_island:copper_pickaxe=Copper Pickaxe
+item.tong_island:copper_hoe=Copper Hoe
+
+
+item.tong_island:steel_helmet=Steel Helmet
+item.tong_island:steel_chestplate=Steel Chestplate
+item.tong_island:steel_leggings=Steel Leggings
+item.tong_island:steel_boots=Steel Boots
+item.tong_island:copper_helmet=Copper Helmet
+item.tong_island:copper_chestplate=Copper Chestplate
+item.tong_island:copper_leggings=Copper Leggings
+item.tong_island:copper_boots=Copper Boots
+item.tong_island:reinforced_iron_helmet=reinforced Iron Helmet
+item.tong_island:reinforced_iron_chestplate=reinforced Iron Chestplate
+item.tong_island:reinforced_iron_leggings=reinforced Iron Leggings
+item.tong_island:reinforced_iron_boots=reinforced Iron Boots
+
+
+tile.tong_island:steel_block.name=Block of Steel
+
+
+item.tong_island:steel_ingot=Steel Ingot
+item.tong_island:raw_mix_steel=Raw mixture Steel
+item.tong_island:steel_nugget=Steel Nugget
+item.tong_island:copper_nugget=Copper Nugget

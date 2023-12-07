@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "tong_island:reinforced_iron_boots"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:iron_boots",
+				"count": 1
+			},
+			{
+			    "item": "minecraft:iron_block",
+			    "count": 1
+			}
+		],
+		"result": [
+		    {
+				"item": "tong_island:reinforced_iron_boots",
+				"count": 1
+			}
+    	]
+	}
+}

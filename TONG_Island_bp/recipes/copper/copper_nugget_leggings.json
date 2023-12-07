@@ -1,0 +1,13 @@
+{
+  "format_version": "1.17",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "tong_island:copper_nugget_leggings"
+    },
+
+    
+    "tags": ["furnace", "blast_furnace"],
+    "input": "tong_island:copper_leggings",
+    "output": "tong_island:copper_nugget"
+  }
+}

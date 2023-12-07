@@ -1,0 +1,20 @@
+{
+    "format_version": "1.17",
+    "minecraft:block": {
+        "description": {
+            "identifier": "tong_island:steel_block"
+    },
+        "components": {
+			"minecraft:creative_category": {
+			    "category": "Construction"
+			},
+            "minecraft:destructible_by_explosion": {
+                "explosion_resistance": 80
+            },
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy":10
+            },
+            "minecraft:map_color": "#525c70"
+        }
+    }
+}

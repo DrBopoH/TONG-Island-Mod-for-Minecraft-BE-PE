@@ -1,0 +1,7 @@
+{ 
+  "format_version": "1.19.30", 
+  "tong_island:steel_block": { 
+    "textures": "steel_block_QHzwSS",
+    "sound": "metal" 
+     } 
+}

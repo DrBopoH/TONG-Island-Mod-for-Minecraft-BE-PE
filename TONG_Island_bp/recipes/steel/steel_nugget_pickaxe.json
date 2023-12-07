@@ -1,0 +1,13 @@
+{
+  "format_version": "1.17",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "tong_island:steel_nugget_pickaxe"
+    },
+
+    
+    "tags": ["furnace", "blast_furnace"],
+    "input": "tong_island:steel_pickaxe",
+    "output": "tong_island:steel_nugget"
+  }
+}

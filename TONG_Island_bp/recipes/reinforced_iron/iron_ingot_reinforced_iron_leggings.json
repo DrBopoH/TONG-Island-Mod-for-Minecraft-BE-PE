@@ -1,0 +1,13 @@
+{
+  "format_version": "1.17",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "tong_island:iron_ingot_reinforced_iron_leggings"
+    },
+
+    
+    "tags": ["furnace", "blast_furnace"],
+    "input": "tong_island:reinforced_iron_leggings",
+    "output": "minecraft:iron_ingot"
+  }
+}

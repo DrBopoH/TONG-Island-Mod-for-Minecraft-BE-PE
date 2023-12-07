@@ -1,0 +1,26 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "tong_island:steel_chestplate"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"A A",
+			"AAA",
+			"AAA"
+		],
+		"key": {
+			"A": {
+				"item": "tong_island:steel_ingot"
+			}
+		},
+		"result": [
+			{
+				"item": "tong_island:steel_chestplate"
+			}
+		]
+	}
+}
