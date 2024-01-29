@@ -1,0 +1,26 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "minecraft:wheat_seeds_pack"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"A A",
+			" A ",
+			"A A"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:wheat_seeds"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:wheat_seeds_pack"
+			}
+		]
+	}
+}

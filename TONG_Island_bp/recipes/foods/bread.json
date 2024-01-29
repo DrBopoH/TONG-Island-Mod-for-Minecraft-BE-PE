@@ -8,11 +8,11 @@
 			"crafting_table"
 		],
 		"pattern": [
-			"AAA"
+			"A"
 		],
 		"key": {
 			"A": {
-				"item": "minecraft:wheat_seeds"
+				"item": "minecraft:fried_wheat_seeds_pack"
 			}
 		},
 		"result": [

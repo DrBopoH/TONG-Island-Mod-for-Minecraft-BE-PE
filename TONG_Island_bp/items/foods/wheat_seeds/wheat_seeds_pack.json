@@ -1,0 +1,19 @@
+{
+	"format_version": "1.17.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "tong_island:wheat_seeds_pack",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "wheat_seeds_pack_7lAoMQ"
+			},
+			"minecraft:display_name":{},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.nature"
+			}
+		},
+		"events": {}
+	}
+}

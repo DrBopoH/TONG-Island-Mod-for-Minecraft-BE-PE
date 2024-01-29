@@ -88,6 +88,12 @@
 		
 		"seeds_wheat": {
 		    "textures":"textures/items/seeds_wheat"
+		},
+		"wheat_seeds_pack": {
+		    "textures":"textures/items/wheat_seeds_pack_7lAoMQ"
+		},
+		"wheat_seeds_pack": {
+		    "textures":"textures/items/fried_wheat_seeds_pack_Wqw0jh"
 		}
 	}
 }
