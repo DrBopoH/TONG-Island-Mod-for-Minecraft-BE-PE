@@ -4,7 +4,7 @@
         "description": "More TONG lore in your world! Made by Dr.BopoH [Discord - drbopoh]",
         "name": "TongIsland [BP]",
         "uuid": "c7c19447-e9c1-47d7-881f-80ac0f0307be",
-        "version": [0, 2, 2],
+        "version": [0, 2, 4],
         "min_engine_version": [1, 13, 0]
     },
     "modules": [
@@ -12,14 +12,14 @@
             "description": "More TONG lore in your world! Made by Dr.BopoH [Discord - drbopoh]",
             "type": "data",
             "uuid": "3d04397d-4809-46c4-90cf-81f361115ba0",
-            "version": [0, 2, 2]
+            "version": [0, 2, 4]
         }
 
     ],
     "dependencies": [
         {
             "uuid": "7af5b456-c421-40bb-825d-01d9a0685157",
-            "version": [0, 2, 2]
+            "version": [0, 2, 4]
         }
     ],
     "metadata": {

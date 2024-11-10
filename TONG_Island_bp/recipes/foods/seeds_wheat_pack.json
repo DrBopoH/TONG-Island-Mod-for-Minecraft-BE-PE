@@ -2,7 +2,7 @@
 	"format_version": "1.16.100",
 	"minecraft:recipe_shaped": {
 		"description": {
-			"identifier": "minecraft:wheat_seeds_pack"
+			"identifier": "tong_island:wheat_seeds_pack"
 		},
 		"tags": [
 			"crafting_table"
@@ -19,7 +19,7 @@
 		},
 		"result": [
 			{
-				"item": "minecraft:wheat_seeds_pack"
+				"item": "tong_island:wheat_seeds_pack"
 			}
 		]
 	}

@@ -1,24 +1,23 @@
 {
 	"format_version": "1.16.100",
-	"minecraft:recipe_shaped": {
+	"minecraft:recipe_shapeless": {
 		"description": {
 			"identifier": "minecraft:bread"
 		},
 		"tags": [
 			"crafting_table"
 		],
-		"pattern": [
-			"A"
-		],
-		"key": {
-			"A": {
-				"item": "minecraft:fried_wheat_seeds_pack"
-			}
-		},
-		"result": [
+		"ingredients": [
 			{
-				"item": "minecraft:bread"
+			    "item": "tong_island:fried_wheat_seeds_pack",
+			    "count": 1
 			}
-		]
+		],
+		"result": [
+		    {
+				"item": "minecraft:bread",
+				"count": 1
+			}
+    	]
 	}
 }
